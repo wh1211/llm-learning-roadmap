@@ -6,7 +6,7 @@
 
 | 时间 | 任务 | 状态 |
 |------|------|------|
-| 9月W1 | 环境搭建 + 第一个Pipeline | 🟡 进行中 |
+| 9月W1 | 环境搭建 + 第一个Pipeline | 🟢 已完成 |
 | 9月W2 | mini-Transformer手推 + LeetCode 10道 | ⚪ 未开始 |
 | 9月W3 | 继续Transformer实现 | ⚪ 未开始 |
 | 9月W4 | RAG项目启动 | ⚪ 未开始 |
